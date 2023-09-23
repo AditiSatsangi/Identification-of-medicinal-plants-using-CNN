@@ -27,11 +27,19 @@ By incorporating transfer learning with MobileNet, we harness the power of prove
    - After successful training and validation, our model is put to the test on entirely novel data.
    - The reported accuracy of approximately 86.7% underscores the model's ability to accurately classify medicinal plants based on leaf images with remarkable reliability.
 
-7. ## Practical Application and Impact:
+7. ## Prediction:
+   We are giving the input image and then our CNN model will give the predicted about about the class of the plant or the name of that particular medicinal plant.
+
+    ![image](https://github.com/AditiSatsangi/Identification-of-medicina-plants-using-CNN/assets/123658491/d228613d-7ce5-41ec-8816-f50aaccabd48)
+
+
+9. ## Practical Application and Impact:
    - Beyond the realms of academia, our project has practical applications of significant consequence. It serves as a potent tool for expedited and precise identification of medicinal plants based on leaf images.
    - Such technology holds substantial potential for the Ayush Ministry, offering a streamlined means to catalog and verify plant species used in traditional medicine.
 
 ## Remarkable Output:
 
 The "Identification of Medicinal Plants using CNN" project has delivered outstanding results, with our model achieving an accuracy rate of approximately 86.7%. This substantial output signifies our project's prowess in accurately categorizing and cataloging plant species. This capability holds the potential to revolutionize the herbal medicine industry and contribute to environmental conservation efforts.
+
+![image](https://github.com/AditiSatsangi/Identification-of-medicina-plants-using-CNN/assets/123658491/b6e9a9e5-27f7-4cb2-a08c-7e53a1764a7f)
 
