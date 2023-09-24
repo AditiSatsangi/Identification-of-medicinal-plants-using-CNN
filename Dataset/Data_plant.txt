@@ -1,0 +1,4 @@
+We have used the dataset frm the Kaggle.
+The link for dataset is-
+
+https://www.kaggle.com/datasets/aryashah2k/indian-medicinal-leaves-dataset
