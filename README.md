@@ -5,7 +5,7 @@ The project "Identification of Medicinal Plants using CNN" leverages deep learni
 ## 1.  Data Collection:
    - We have meticulously curated a comprehensive dataset of leaf images, primarily sourced from the "Indian Medicinal Leaves Dataset" on Kaggle.
 
- ## 2.Data Preprocessing:
+ ## 2. Data Preprocessing:
    - Our project begins with rigorous data preprocessing to ensure dataset quality and suitability. This includes image resizing, normalization, and data augmentation techniques to enhance the model's generalization ability.
 
 ## 3. Convolutional Neural Network (CNN):
@@ -25,7 +25,7 @@ By incorporating transfer learning with MobileNet, we harness the power of prove
    ![image](https://github.com/AditiSatsangi/Identification-of-medicinal-plants-using-CNN/assets/123658491/6221155f-20d4-4b8a-97f2-a50af1f52a86)
 
    
- ## 6.Validation:
+ ## 6. Validation:
    - To ensure robust performance, our trained model is subjected to validation using a separate dataset it has never encountered before.
 
 ## 7. Testing and Remarkable Accuracy:
