@@ -22,24 +22,27 @@ By incorporating transfer learning with MobileNet, we harness the power of prove
 
 5. ## Model:
    
-6. ## Validation:
+   ![image](https://github.com/AditiSatsangi/Identification-of-medicinal-plants-using-CNN/assets/123658491/6221155f-20d4-4b8a-97f2-a50af1f52a86)
+
+   
+7. ## Validation:
    - To ensure robust performance, our trained model is subjected to validation using a separate dataset it has never encountered before.
 
-7. ## Testing and Remarkable Accuracy:
+8. ## Testing and Remarkable Accuracy:
    - After successful training and validation, our model is put to the test on entirely novel data.
    - The reported accuracy of approximately 86.7% underscores the model's ability to accurately classify medicinal plants based on leaf images with remarkable reliability.
 
-8. ## Prediction:
+9. ## Prediction:
    We are giving the input image and then our CNN model will give the predicted about about the class of the plant or the name of that particular medicinal plant.
 
     ![image](https://github.com/AditiSatsangi/Identification-of-medicina-plants-using-CNN/assets/123658491/d228613d-7ce5-41ec-8816-f50aaccabd48)
 
 
-9. ## Practical Application and Impact:
+10. ## Practical Application and Impact:
    - Beyond the realms of academia, our project has practical applications of significant consequence. It serves as a potent tool for expedited and precise identification of medicinal plants based on leaf images.
    - Such technology holds substantial potential for the Ayush Ministry, offering a streamlined means to catalog and verify plant species used in traditional medicine.
 
-10. ## Remarkable Output:
+11. ## Remarkable Output:
 
 The "Identification of Medicinal Plants using CNN" project has delivered outstanding results, with our model achieving an accuracy rate of approximately 86.7%. This substantial output signifies our project's prowess in accurately categorizing and cataloging plant species. This capability holds the potential to revolutionize the herbal medicine industry and contribute to environmental conservation efforts.
 
