@@ -35,7 +35,7 @@ By incorporating transfer learning with MobileNet, we harness the power of prove
 ## 8. Prediction:
    We are giving the input image and then our CNN model will give the predicted about about the class of the plant or the name of that particular medicinal plant.
 
-    ![image](https://github.com/AditiSatsangi/Identification-of-medicina-plants-using-CNN/assets/123658491/d228613d-7ce5-41ec-8816-f50aaccabd48)
+   ![image](https://github.com/AditiSatsangi/Identification-of-medicina-plants-using-CNN/assets/123658491/d228613d-7ce5-41ec-8816-f50aaccabd48)
 
 
 ## 9. Practical Application and Impact:
